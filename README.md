@@ -1,6 +1,7 @@
-# Tetraedro na Esfera
-O grupo formado por Artur De Vlieger Lima [13671574], Gabriel da Costa Merlin [12544420] e
-Vicenzo D’Arezzo Zilio [13671790], por meio de simulações, estudou a probabilidade do centro de
-uma esfera estar contido num tetraedro cujos vértice foram gerados aleatóriamente na superfíce dessa esfera.
-Este foi o trabalho realizado para a disciplina de Estatística ministrada pelo professor Eduardo Fontoura Costa
-durante o 2º semestre de 2023.
+# Tetrahedron in a Sphere
+
+The group formed by Artur De Vlieger Lima [13671574], Gabriel da Costa Merlin [12544420] and
+Vicenzo D’Arezzo Zilio [13671790], through simulations, studied the probability of the center of
+a sphere will be contained in a tetrahedron whose vertex was randomly generated on the surface of that sphere.
+This was the work carried out for the Statistics discipline taught by professor Eduardo Fontoura Costa
+during the 2nd semester of 2023.
